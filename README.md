@@ -30,38 +30,26 @@ Framework/Library: <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style
 
 #### Cara Menggunakan
 
-1. Masuk ke Direktori Proyek:
+1. Pastikan anda Masuk ke direktori file Expert_System_Gastro
 
 ```bash
-# Ini adalah contoh skrip Bash
-echo "Halo, Mu'adz!"
-ls -l /home/user/
-
+cd Expert_System_Gastro
 ```
 
 2. Cek apakah sudah install Streamlit
 
 ```bash
-# Ini adalah contoh skrip Bash
-echo "Halo, Mu'adz!"
-ls -l /home/user/
-
+pip list | findstr streamlit
 ```
 
-3. Pastikan anda Masuk ke direktori file Expert_System_Gastro
+3. Jika streamlit belum terinstall, install terlebih dahulu dengan
 
 ```bash
-# Ini adalah contoh skrip Bash
-echo "Halo, Mu'adz!"
-ls -l /home/user/
-
+pip install streamlit
 ```
 
 4. Jalankan aplikasi dengan perintah
 
 ```bash
-# Ini adalah contoh skrip Bash
-echo "Halo, Mu'adz!"
-ls -l /home/user/
-
+python -m streamlit run app.py
 ```
