@@ -1,0 +1,90 @@
+[
+    {
+        "id": "G001",
+        "name": "Sering mengalami buang air besar (> 2 kali)?"
+    },
+    {
+        "id": "G002",
+        "name": "Mengalami berak encer?"
+    },
+    {
+        "id": "G003",
+        "name": "Mengalami berak berdarah?"
+    },
+    {
+        "id": "G004",
+        "name": "Merasa lesu dan tidak bergairah?"
+    },
+    {
+        "id": "G005",
+        "name": "Tidak selera makan?"
+    },
+    {
+        "id": "G006",
+        "name": "Merasa mual dan sering muntah (lebih dari 1 kali) ?"
+    },
+    {
+        "id": "G007",
+        "name": "Merasa sakit di bagian perut ?"
+    },
+    {
+        "id": "G008",
+        "name": "Tekanan darah anda rendah ?"
+    },
+    {
+        "id": "G009",
+        "name": "Anda merasa pusing ?"
+    },
+    {
+        "id": "G010",
+        "name": "Anda mengalami pingsan ?"
+    },
+    {
+        "id": "G011",
+        "name": "Suhu badan anda tinggi ?"
+    },
+    {
+        "id": "G012",
+        "name": "Mengalami luka di bagian tertentu ?"
+    },
+    {
+        "id": "G013",
+        "name": "Tidak dapat menggerakkan anggota badan tertentu ?"
+    },
+    {
+        "id": "G014",
+        "name": "Pernah memakan sesuatu ?"
+    },
+    {
+        "id": "G015",
+        "name": "Memakan daging ?"
+    },
+    {
+        "id": "G016",
+        "name": "Memakan jamur ?"
+    },
+    {
+        "id": "G017",
+        "name": "Memakan makanan kaleng ?"
+    },
+    {
+        "id": "G018",
+        "name": "Membeli susu ?"
+    },
+    {
+        "id": "G019",
+        "name": "Meminum susu ?"
+    },
+    {
+        "id": "G020",
+        "name": "Sering Bengong"
+    },
+    {
+        "id": "G021",
+        "name": "Sering Lupa"
+    },
+    {
+        "id": "G023",
+        "name": "Isi dompet kosong"
+    }
+]
